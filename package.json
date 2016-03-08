@@ -1,0 +1,27 @@
+{
+  "name": "color-to-hsla",
+  "version": "0.1.0",
+  "description": "Convert any valid color to HSLA values",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "color",
+    "hsla",
+    "convert"
+  ],
+  "author": "Michael Andrew Vanasse <michael.vanasse@optiv.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/css-utils/color-to-hsla.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
+  }
+}
