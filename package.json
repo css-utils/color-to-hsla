@@ -1,6 +1,6 @@
 {
   "name": "color-to-hsla",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert any valid color to HSLA values",
   "main": "index.js",
   "directories": {
